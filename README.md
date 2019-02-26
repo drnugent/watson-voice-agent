@@ -1,6 +1,6 @@
 # Nexmo and IBM Voice Agent with Watson
 
-This repo will help you get started with connection Nexmo to an IBM Voice Agent with Watson service orchestration engine. This will allow you to create complex flows to interact with your customers. 
+This repo will help you get started with connecting Nexmo to an IBM Voice Agent with Watson service orchestration engine. This will allow you to create complex flows to interact with your customers. 
 
 ## Setting up Node-RED
 
