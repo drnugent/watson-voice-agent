@@ -28,22 +28,6 @@ You will need a Nexmo number and setup the voice application for this app. There
 1. Click `Numbers` and link the recently created virtual number.
 1. Copy the virtual number for use in the next step.
 
-### Using the CLI
-
-1. Install the CLI by following [these instructions](https://github.com/Nexmo/nexmo-cli#installation).
-1. Buy a virtual number
-```
-nexmo number:buy --country_code US
-```
-1. Create the Voice Application
-```
-nexmo app:create "VoiceApplication" https://<app name>.mybluemix.net/eventURL https://<app name>.mybluemix.net/eventURL  --keyfile private.key
-```
-1. Link the virtual number to the application
-```
-nexmo link:app 15555555555 aaaaaaaa-bbbb-cccc-dddd-0123456789ab
-```
-
 ## Setting up the Voice Agent
 
 Next you will need to create the Voice Agent in IBM Cloud. Copy the virtual number you created in in Nexmo for this step.
