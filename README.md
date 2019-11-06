@@ -6,7 +6,7 @@ This repo will help you get started with connecting Nexmo to an IBM Voice Agent 
 
 This sample project uses [Node-RED](https://nodered.org/) to create the connection between Nexmo and IBM Voice Agent with Watson.
 
-1. Signup for [IBM Cloud account](https://nexmo.dev/ibm-account-signup) (if you don't already have one)
+1. Signup for [IBM Cloud account](https://ibm.biz/nexmo-workshop) (if you don't already have one)
 1. Create [Node-RED Starter](https://nexmo.dev/ibm-cloud-node-red) app in IBM Cloud
   1. This process can take a few minutes.
   1. Once complete, click `View App URL`
