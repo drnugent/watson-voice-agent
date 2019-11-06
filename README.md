@@ -45,6 +45,13 @@ Next you will need to create the Voice Agent in IBM Cloud. Copy the virtual numb
 
 ## Create Node-RED Flow
 
+### Install the Nexmo Module
+
+1. Open the hamburger menu in the upper right of your Node-RED dashboard
+1. Click `Manage palette`
+1. Click `Import` and type `nexmo` into the box
+1. When the module `node-red-contrib-nexmo` pops up, click the `Install` button
+
 ### Import Flow
 
 There is a sample flow you can import and begin using right away.  
